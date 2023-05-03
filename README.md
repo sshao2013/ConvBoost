@@ -19,7 +19,7 @@ you could run a baseline model by:
 
     python main.py --dataset=1 --model='CNN-3L'
 
-To run the CovBoost model by:
+To run the ConvBoost model by:
 
     python main.py --dataset=1 --model='CNN-3L'  --epoch_wise=True
 
