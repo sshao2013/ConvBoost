@@ -28,6 +28,18 @@ More configuration settings can be found in the file 'cfg_data.py'
 ## Citation
 If you found this paper is helpful and like it. Please don't mind citing it and thank you.
 ```
-Shuai Shao, Yu Guan, Bing Zhai, Paolo Missier, and Thomas Plötz. 2023. ConvBoost: Boosting ConvNets for Sensor-based Activity Recognition. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 7, 2, Article 75 (June 2023), 21 pages. https://doi.org/10.1145/3596234
+@article{10.1145/3596234
+  author  = {Shao, Shuai and Guan, Yu and Zhai, Bing and Missier, Paolo and Pl\"{o}tz, Thomas},
+  title   = {ConvBoost: Boosting ConvNets for Sensor-based Activity Recognition},
+  doi     = {10.1145/3596234},
+  journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+  volume  = {7},
+  number  = {2},
+  year    = {2023},
+  issue_date = {June 2023},
+  pages   = {75},
+  url     = {https://doi.org/10.1145/3596234},
+  publisher = {Association for Computing Machinery},
+}
 
 ```
